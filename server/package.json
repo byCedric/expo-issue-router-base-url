@@ -1,0 +1,14 @@
+{
+  "name": "expo-router-base-url-issue",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@expo/server": "0.3.1",
+    "connect": "3.7.0",
+    "express": "4.16.4",
+    "morgan": "^1.10.0",
+    "serve-static": "^1.15.0"
+  }
+}
