@@ -1,6 +1,6 @@
 # Expo Router Base URL issue
 
-Most basic setup for intiial route issue using base urls.
+Most basic setup for initial route issue using base urls.
 
 ## Running
 
@@ -20,7 +20,7 @@ Open the `web: ...` link from terminal, or [http://localhost:3000/my/base/url](h
 
 ## Issue
 
-The intial web link swaps the URL to `http://localhost:3000`.
+The initial web link swaps the URL to `http://localhost:3000`.
 
 ### Using Expo Router from `main`
 
