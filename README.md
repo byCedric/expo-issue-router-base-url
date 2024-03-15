@@ -35,6 +35,8 @@ Change the **app/package.json** file:
 - `$ rm -rf node_modules`
 - `$ bun install`
 - `$ bun expo export --platform web --clear`
+- `$ cd ../server`
+- `$ bun start`
 
 This results in a `404` when starting the page, and navigating to [http://localhost:3000/my/base/url](http://localhost:3000/my/base/url)
 
