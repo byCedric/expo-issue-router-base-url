@@ -5,7 +5,7 @@ const morgan = require('morgan');
 const createStaticHandler = require('serve-static');
 const path = require('path');
 
-const CONFIG_PORT = 3009;
+const CONFIG_PORT = 3000;
 const CONFIG_APP_DIR = path.resolve(__dirname, '../app/dist');
 
 const app = express();
